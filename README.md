@@ -1,4 +1,4 @@
-# calculator
+# Github-explorer
 
 Projeto desenvolvido na trilha Ignite ReactJs da Rocketseat.
 
