@@ -4,7 +4,7 @@ Projeto desenvolvido na trilha Ignite ReactJs da Rocketseat.
 
 ## Project setup
 ```
-Após o git clone em sua maquina insira o comando yarn -y ou npm i no prompt dentro do repositorio para baixar as dependências.
+Após o clone do repositório, em sua maquina insira o comando yarn -y ou npm i no prompt dentro do repositorio para baixar as dependências.
 ```
 
 ### Compiles and hot-reloads for development
